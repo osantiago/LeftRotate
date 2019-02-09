@@ -1,0 +1,11 @@
+D:\Core Examples\LeftRotate\LeftRotate\bin\Debug\netcoreapp2.1\LeftRotate.deps.json
+D:\Core Examples\LeftRotate\LeftRotate\bin\Debug\netcoreapp2.1\LeftRotate.runtimeconfig.json
+D:\Core Examples\LeftRotate\LeftRotate\bin\Debug\netcoreapp2.1\LeftRotate.runtimeconfig.dev.json
+D:\Core Examples\LeftRotate\LeftRotate\bin\Debug\netcoreapp2.1\LeftRotate.dll
+D:\Core Examples\LeftRotate\LeftRotate\bin\Debug\netcoreapp2.1\LeftRotate.pdb
+D:\Core Examples\LeftRotate\LeftRotate\obj\Debug\netcoreapp2.1\LeftRotate.csprojAssemblyReference.cache
+D:\Core Examples\LeftRotate\LeftRotate\obj\Debug\netcoreapp2.1\LeftRotate.csproj.CoreCompileInputs.cache
+D:\Core Examples\LeftRotate\LeftRotate\obj\Debug\netcoreapp2.1\LeftRotate.AssemblyInfoInputs.cache
+D:\Core Examples\LeftRotate\LeftRotate\obj\Debug\netcoreapp2.1\LeftRotate.AssemblyInfo.cs
+D:\Core Examples\LeftRotate\LeftRotate\obj\Debug\netcoreapp2.1\LeftRotate.dll
+D:\Core Examples\LeftRotate\LeftRotate\obj\Debug\netcoreapp2.1\LeftRotate.pdb
